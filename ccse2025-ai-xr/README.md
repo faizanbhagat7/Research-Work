@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TU_Ilmenau_Logo_black_green.svg/1280px-TU_Ilmenau_Logo_black_green.svg.png" height="70"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./ccse2025-logo.png" height="70"/>
+  <a href="https://www.tu-ilmenau.de/en/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TU_Ilmenau_Logo_black_green.svg/1280px-TU_Ilmenau_Logo_black_green.svg.png" height="60"/>
+  </a>
 </p>
 
-<h1 align="center">🤖 AI in AR/VR — Perception, Personalization & Generative Experiences</h1>
+<h1 align="center">🤖 AI in AR/VR</h1>
+<h3 align="center">Perception, Personalization & Generative Experiences</h3>
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by/4.0/">
     <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"/>
   </a>
-  <img src="https://img.shields.io/badge/CCSE%202025-TU%20Ilmenau-blue"/>
+  <a href="https://www.tu-ilmenau.de/en/">
+    <img src="https://img.shields.io/badge/CCSE%202025-TU%20Ilmenau-blue"/>
+  </a>
   <img src="https://img.shields.io/badge/Status-Presented%20✓-brightgreen"/>
 </p>
 
@@ -22,13 +25,14 @@
 
 ## 👤 Author
 **M. Faizan Faruk Bhagat**  
-MSc RCSE @ TU Ilmenau, Germany  
+MSc RCSE @ [TU Ilmenau](https://www.tu-ilmenau.de/en/), Germany  
+📧 faizanbhagat.de@gmail.com
 
 ---
 
 ## 🎯 TL;DR
 AI × AR × VR = immersive experiences that actually *get* you.  
-This paper breaks down how AI is the backbone of modern XR — from Snapchat filters to OpenAI SORA. No cap. 🔥
+Breaks down how AI is the backbone of modern XR — from Snapchat filters to OpenAI SORA. No cap. 🔥
 
 ---
 
@@ -60,7 +64,7 @@ This paper breaks down how AI is the backbone of modern XR — from Snapchat fil
 
 ---
 
-## ⚠️ Challenges Uncovered
+## ⚠️ Challenges
 - 🕐 **Latency** — heavy models + mobile = motion sickness risk
 - 🔒 **Privacy** — biometric data collection in XR is wild
 - ⚖️ **Bias** — unrepresentative training data = unfair systems
@@ -68,20 +72,20 @@ This paper breaks down how AI is the backbone of modern XR — from Snapchat fil
 
 ---
 
-## 📁 Repo Contents
-| What's inside |
-|--------------|
-| Full LaTeX source code |
-| Final submitted paper |
+## 📁 Files
+| File | Description |
+|------|-------------|
+| `main_AI_x_AR.tex` | Full LaTeX source |
+| `*.pdf` | Final submitted paper |
 
 ---
 
 ## 🏆 Publication
-> Presented at **17th CCSE 2025** — TU Ilmenau, Germany 🇩🇪  
+> Presented at **[17th CCSE 2025](https://www.tu-ilmenau.de/en/)** — TU Ilmenau, Germany 🇩🇪  
 > August 28, 2025 | Track: Virtual & Augmented Reality
 
 ---
 
 ## 📜 License
-**CC BY 4.0** — free to use, just credit the author 🙏  
+**CC BY 4.0** — free to use, just credit the author! 
 © 2025 M. Faizan Faruk Bhagat
