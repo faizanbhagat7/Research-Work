@@ -73,10 +73,9 @@ Breaks down how AI is the backbone of modern XR — from Snapchat filters to Ope
 ---
 
 ## 📁 Files
-| File | Description |
-|------|-------------|
-| `main_AI_x_AR.tex` | Full LaTeX source |
-| `*.pdf` | Final submitted paper |
+|-------------|
+| Full LaTeX source |
+| Final submitted paper |
 
 ---
 
